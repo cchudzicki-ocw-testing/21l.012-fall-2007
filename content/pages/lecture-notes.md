@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains notes taken by a class attendee, meant to capture
+  some of the discussions that took place in class. This section includes one file
+  for each work discussed, rather than one file for each class; some of these files
+  span several class sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
